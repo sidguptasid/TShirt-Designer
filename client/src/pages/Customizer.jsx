@@ -59,7 +59,7 @@ const Customizer = () => {
       alert(error)
     }finally{
       setGeneratingImg(false);
-      setActiveEditorTab("");
+      setActiveEditorTab("")
     }
   }
 
