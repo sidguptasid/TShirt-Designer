@@ -29,4 +29,4 @@ Create your own style with our new 3D Tshirt Customization App. Pick colors, and
 ![Website1](https://github.com/sidguptasid/TShirt-Designer/assets/132853979/cec64254-c2dc-42a0-9fc1-3e979f2525ff)
 
     
-![Website2](https://github.com/sidguptasid/TShirt-Designer/assets/132853979/f7d33547-707a-4f09-9ac7-b5a97c3f2038)
+![Website3](https://github.com/sidguptasid/TShirt-Designer/assets/132853979/2bcb6af7-b501-4484-8289-b200a393c65c)
