@@ -1,4 +1,4 @@
-# TShirt-Designer
+# TShirt-Customizer
 ## Introduction
 
 Create your own style with our new 3D Tshirt Customization App. Pick colors, and add logos to make your virtual Tshirt unique. Built using React.js, Three.js, and TailwindCSS
